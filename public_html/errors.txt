@@ -1,0 +1,33 @@
+exec error time: 2012/03/26 16:45:46
+environment.cgi: Command not found.
+exec error time: 2012/03/26 16:46:06
+environment01.cgi: Command not found.
+exec error time: 2012/03/26 16:46:52
+test.cgi: Command not found.
+exec error time: 2012/03/26 16:48:55
+phpinfo.php: Exec format error
+exec error time: 2012/03/26 16:55:50
+mt-check.cgi: Command not found.
+exec error time: 2012/06/10 18:12:17
+kaz.php: Exec format error
+exec error time: 2012/06/10 19:03:41
+kaz.php: Exec format error
+Prototype mismatch: sub main::write_http_header () vs none at cgi.pl line 6.
+cgi.pl did not return a true value at admin_controller.pl line 3.
+Prototype mismatch: sub main::write_http_header () vs none at cgi.pl line 6.
+cgi.pl did not return a true value at admin_controller.pl line 3.
+Prototype mismatch: sub main::write_http_header () vs none at cgi.pl line 6.
+cgi.pl did not return a true value at admin_controller.pl line 6.
+Prototype mismatch: sub main::write_http_header () vs none at shared_cgi.pl line 6.
+shared_cgi.pl did not return a true value at admin_controller.pl line 6.
+Prototype mismatch: sub main::write_http_header () vs none at cgi.pl line 6.
+cgi.pl did not return a true value at admin_controller.pl line 6.
+cgi.pl did not return a true value at admin_controller.pl line 6.
+cgi.pl did not return a true value at admin_controller.pl line 6.
+Can't locate Time/Piece.pm in @INC (@INC contains: /usr/local/pkg/perl/5.8.7/lib/i386-linux-thread-multi /usr/local/pkg/perl/5.8.7/lib /usr/lib/perl5/site_perl/5.8.7/i386-linux-thread-multi /usr/lib/perl5/site_perl/5.8.7 /usr/lib/perl5/site_perl /usr/lib/perl5/vendor_perl/5.8.7/i386-linux-thread-multi /usr/lib/perl5/vendor_perl/5.8.7 /usr/lib/perl5/vendor_perl .) at cgi.pl line 3.
+BEGIN failed--compilation aborted at cgi.pl line 3.
+Compilation failed in require at admin_controller.pl line 3.
+Can't locate DateTime.pm in @INC (@INC contains: /usr/local/pkg/perl/5.8.7/lib/i386-linux-thread-multi /usr/local/pkg/perl/5.8.7/lib /usr/lib/perl5/site_perl/5.8.7/i386-linux-thread-multi /usr/lib/perl5/site_perl/5.8.7 /usr/lib/perl5/site_perl /usr/lib/perl5/vendor_perl/5.8.7/i386-linux-thread-multi /usr/lib/perl5/vendor_perl/5.8.7 /usr/lib/perl5/vendor_perl .) at cgi.pl line 3.
+BEGIN failed--compilation aborted at cgi.pl line 3.
+Compilation failed in require at admin_controller.pl line 3.
+Can't call method "datetime" without a package or object reference at cgi.pl line 12.

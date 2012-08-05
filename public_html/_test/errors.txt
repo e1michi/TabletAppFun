@@ -1,0 +1,10 @@
+exec error time: 2012/03/26 16:45:46
+environment.cgi: Command not found.
+exec error time: 2012/03/26 16:46:06
+environment01.cgi: Command not found.
+exec error time: 2012/03/26 16:46:52
+test.cgi: Command not found.
+exec error time: 2012/03/26 16:48:55
+phpinfo.php: Exec format error
+exec error time: 2012/03/26 16:55:50
+mt-check.cgi: Command not found.

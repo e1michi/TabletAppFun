@@ -1,0 +1,4 @@
+<Limit DIRS>
+IgnoreHidden on
+</Limit DIRS>
+HideFiles (vpack11bbs|vpack12mail|vpack20bbs|vpack21all)($|_new$|_old$)

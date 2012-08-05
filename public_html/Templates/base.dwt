@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="タブレットアプリファン,タブレットアプリ紹介サイト,MEDIAS TAB,LifeTouch,タブレット,おすすめアプリ,おすすめ,安心,簡単,初心者,Androidアプリ,紹介,無料,タブレット専用,NEC,tablet">
+<meta name="description" content="タブレットアプリ紹介サイト「タブレットアプリファン」では、安心して使えるオススメのAndroidタブレットアプリを紹介していきます。">
+<meta http-equiv="Content-script-type" content="text/javascript" />
+<meta http-equiv="Content-style-type" content="text/css" />
+<script src= "../js/jquery.js" type="text/javascript"></script>
+<script src= "../js/rollover.js" type="text/javascript"></script>
+<script src= "../js/smoothScroll.js" type="text/javascript"></script>
+<link rel="stylesheet" href="../css/base.css" type="text/css" />
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="js/pngfix.js"></script>
+<![endif]-->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+<a id="pagetop"></a>
+<div id="header">
+	<div class="logo"><a href="../index.html">&nbsp;</a></div>
+	<div class="lnk0"><a href="../policy.html#sitepolicy"><img src="../img/btn_sitepolicy_rollout.gif" alt="ご利用規約" /></a></div>
+	<div class="lnk1"><a href="../privacypolicy.html#privacypolicy"><img src="../img/btn_privacypolicy_rollout.gif" alt="プライバシーポリシー" /></a></div>
+	<div class="lnk2"><a href="../contact.html#contact"><img src="../img/btn_inquiry_rollout.gif" alt="お問い合せ" /></a></div>
+</div>
+
+<div id="container">
+	<!-- TemplateBeginEditable name="mainimg" -->
+	<h2 id="mainimg"><img src="../img/main_img_2.jpg" alt="Android Tablet fun APP 安心して使えるアンドロイドアプリを紹介。アンドロイドタブレットアプリ紹介サイト｜このページはNECが運営しています。" /></h2>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="navi" -->
+    <!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="contens" -->
+    <!-- TemplateEndEditable -->
+</div>
+
+<div id="footer">
+	<div class="foot">
+        <div class="top"><a href="#pagetop">&nbsp;</a></div>
+        <div class="lnk"><a href="../index.html">トップページ</a>｜<a href="../policy.html#sitepolicy">ご利用規約</a>｜<a href="../privacypolicy.html#privacypolicy">プライバシーポリシー</a>｜<a href="http://www.nec.co.jp/" target="_blank">会社概要</a>｜<a href="../contact.html#contact">お問い合わせ</a></div>
+        <div class="add">
+        <address>
+          Copyright &copy;
+          <a href="http://www.nec.co.jp/" target="_blank">NEC Corporation</a>
+          <script language="JavaScript1.2"><!--
+                    now=new Date();
+                    document.write(now.getFullYear());//-->
+                    </script>
+            All rights reserved.
+        </address>
+        </div>
+	</div>
+</div>
+
+</body>
+</html>
